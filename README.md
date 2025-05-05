@@ -1,4 +1,3 @@
----
 
 ```markdown
 # 💸 Expense Tracker (Full Stack MERN App)
