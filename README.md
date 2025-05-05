@@ -103,11 +103,11 @@ npm start
 
 ## 📸 Screenshots
 
-*![WhatsApp Image 2025-04-01 at 15 57 50_919b2f6d](https://github.com/user-attachments/assets/4c782334-11cf-4bed-891d-83485f882e18)
+*Dashboard ![WhatsApp Image 2025-04-01 at 15 57 50_919b2f6d](https://github.com/user-attachments/assets/4c782334-11cf-4bed-891d-83485f882e18)
 *
-*![WhatsApp Image 2025-04-01 at 15 57 50_19c8cfc1](https://github.com/user-attachments/assets/1a9c612e-e2b7-4551-877f-2e5c956ccfce)
+*Expenses ![WhatsApp Image 2025-04-01 at 15 57 50_19c8cfc1](https://github.com/user-attachments/assets/1a9c612e-e2b7-4551-877f-2e5c956ccfce)
 *
-*![WhatsApp Image 2025-04-01 at 15 57 51_2d28bc5e](https://github.com/user-attachments/assets/1e7146ee-58a7-4481-8cd4-fdef3f426065)
+*Incomes ![WhatsApp Image 2025-04-01 at 15 57 51_2d28bc5e](https://github.com/user-attachments/assets/1e7146ee-58a7-4481-8cd4-fdef3f426065)
 *
 ---
 
